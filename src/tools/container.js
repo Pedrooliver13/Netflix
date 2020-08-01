@@ -7,7 +7,7 @@ const container = `
 
   @media (max-width: 800px) {
     & {
-      max-width: 384px;
+      max-width: 284px;
     }
   }
 
