@@ -1,0 +1,30 @@
+:root {
+  --primary:#2A7AE4;
+  --color-blue-light:#6BD1FF;
+  --color-green:#00C86F;
+  --color-black: #000000;
+  --color-white:#FFFFFF;
+  --color-gray-dark:#141414;
+  --color-gray-medium:#F5F5F5;
+  --color-gray-light:#e5e5e5;
+
+
+  --color-black-opacity: rgba(0, 0, 0, 0.8);
+
+  --color-error: #C62828;
+  --color-error-light: #E53935;
+
+  --title-big: 60px;
+  --title-medium: 46px;
+  --title-small: 35px;
+
+  --font-size-big: 27px;
+  --font-size-medium: 18px;
+  --font-size-small: 16px;
+  --font-size-smaller: 12px;
+}
+
+/* scroll */
+.black {
+  background-color: var(--color-black-opacity);
+}
